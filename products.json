@@ -1,0 +1,33 @@
+[
+  {
+    "id": 0,
+    "isim": "Ahşap Masa",
+    "kategori": "masa",
+    "aciklama": "El yapımı meşe ahşap masa.",
+    "malzeme": "Meşe",
+    "renk": "Ceviz",
+    "resimler": [
+    "images/ban1.jpg",
+    "images/ban2.jpg",
+    "images/ban3.jpg"
+  ]
+  },
+  {
+    "id": 1,
+    "isim": "Modern Koltuk",
+    "kategori": "koltuk",
+    "aciklama": "Modern tasarım rahat koltuk.",
+    "malzeme": "Kadife",
+    "renk": "Lacivert",
+    "resim": "images/koltuk1.jpg"
+  },
+  {
+    "id": 2,
+    "isim": "Klasik TV Ünitesi",
+    "kategori": "tv-unitesi",
+    "aciklama": "Şık tasarımlı ahşap TV ünitesi.",
+    "malzeme": "Meşe",
+    "renk": "Doğal",
+    "resim": "images/tv1.jpg"
+  }
+]
